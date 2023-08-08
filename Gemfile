@@ -30,7 +30,7 @@ gem 'daemons'
 
 gem 'datatrans', '~> 5.1'
 
-gem 'tinymce-rails', '~> 3.5.11.0'
+gem 'tinymce-rails', '~> 6.6.1'
 
 gem 'plupload-rails'
 
